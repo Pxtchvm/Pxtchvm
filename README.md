@@ -6,3 +6,5 @@
   <img src="./images/psyop1.png" width="48%" />
   <img src="./images/psyop2.png" width="48%" />
 </p>
+
+<img src="https://raw.githubusercontent.com/Pxtchvm/Pxtchvm/output/snake.svg" alt="Snake animation" />
